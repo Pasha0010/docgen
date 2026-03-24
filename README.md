@@ -43,3 +43,13 @@ git clone https://github.com/Pasha0010/docgen.git
 cd docgen
 pip install -e .
 ```
+
+## 💖 Поддержать проект
+
+Если проект оказался полезным, ты можешь поддержать развитие:
+
+- [💰 ЮMoney](https://yoomoney.ru/fundraise/1GN19MUKOQU.260324) — финансовая поддержка
+- [⭐ Поставить звезду](https://github.com/Pasha0010/docgen/stargazers) — бесплатно, но приятно!
+- [📢 Рассказать друзьям](https://github.com/Pasha0010/docgen) — лучшая поддержка!
+
+Ваша помощь ускорит развитие проекта и добавление новых функций! 🙏
