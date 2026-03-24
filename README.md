@@ -39,4 +39,5 @@ git clone https://github.com/Pasha0010/docgen.git
 cd docgen
 pip install -e .
 ```
-[![Boosty](https://img.shields.io/badge/Boosty-support-orange?logo=boosty)](https://boosty.to/Pasha0010)
+[![ЮMoney](https://img.shields.io/badge/ЮMoney-поддержать-red?style=for-the-badge&logo=yandex)](https://yoomoney.ru/fundraise/1GN19MUKOQU.260324)
+[![GitHub stars](https://img.shields.io/github/stars/Pasha0010
