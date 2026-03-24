@@ -38,3 +38,5 @@ DocGen анализирует ваш код и создаёт профессио
 git clone https://github.com/Pasha0010/docgen.git
 cd docgen
 pip install -e .
+```
+[![Boosty](https://img.shields.io/badge/Boosty-support-orange?logo=boosty)](https://boosty.to/Pasha0010)
