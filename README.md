@@ -1,5 +1,9 @@
 # 🤖 DocGen — Генератор документации с AI
 
+[![ЮMoney](https://img.shields.io/badge/ЮMoney-поддержать-red?style=for-the-badge&logo=yandex)](https://yoomoney.ru/fundraise/1GN19MUKOQU.260324)
+[![GitHub stars](https://img.shields.io/github/stars/Pasha0010/docgen?style=for-the-badge&logo=github)](https://github.com/Pasha0010/docgen/stargazers)
+
+
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/ТВОЙ_НИК/docgen?style=social)](https://github.com/ТВОЙ_НИК/docgen)
@@ -39,5 +43,3 @@ git clone https://github.com/Pasha0010/docgen.git
 cd docgen
 pip install -e .
 ```
-[![ЮMoney](https://img.shields.io/badge/ЮMoney-поддержать-red?style=for-the-badge&logo=yandex)](https://yoomoney.ru/fundraise/1GN19MUKOQU.260324)
-[![GitHub stars](https://img.shields.io/github/stars/Pasha0010
