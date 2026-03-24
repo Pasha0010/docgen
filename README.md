@@ -35,6 +35,6 @@ DocGen анализирует ваш код и создаёт профессио
 ### 3. Скачайте DocGen
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/docgen.git
+git clone https://github.com/Pasha0010/docgen.git
 cd docgen
 pip install -e .
